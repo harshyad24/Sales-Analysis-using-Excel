@@ -3,7 +3,7 @@
 A comprehensive sales analytics solution built in Excel with Power BI integration, providing detailed insights into business performance across multiple dimensions including time, geography, and profitability.
 
 ## 📊 Dashboard Overview
-
+![Data Architecture](https://github.com/harshyad24/Sales-Analysis-using-Excel/blob/main/Screenshot%202025-07-20%20063152.png)
 This analysis provides a complete view of sales performance with the following key metrics:
 - **Total Revenue**: $307.09M
 - **Total Profit**: $126.29M
