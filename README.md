@@ -11,7 +11,8 @@ This analysis provides a complete view of sales performance with the following k
 - **Total Transactions**: 60.4K
 - **Total Quantity**: 606 units
 
-## 🏗️ Data Architecture
+ ## 🏗️ Data Architecture
+ ![🏗️ Data Architecture](https://github.com/harshyad24/Sales-Analysis-using-Excel/blob/main/Screenshot%202025-07-09%20023116.png)
 
 ### Data Model Structure
 The analysis is built on a star schema with the following dimension and fact tables:
